@@ -3,4 +3,4 @@ require_relative "../lib/greeting.rb"
 
 # code your CLI here!
 
-puts "Hello #{name}, welcome to 
+puts "Hello #{name}, It's nice to meet you.
